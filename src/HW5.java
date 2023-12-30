@@ -1,4 +1,4 @@
-public class HW4 {
+public class HW5 {
     public static void main(String[] args) {
         task1();
         task2();
